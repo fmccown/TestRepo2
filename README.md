@@ -1,8 +1,3 @@
 # TestRepo2
 
-Another change. And another.
-And another.
-
-Change on main.
-
-Removed wow.
+One sentence to rule them all.
